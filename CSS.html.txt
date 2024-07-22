@@ -12,7 +12,7 @@
             color: white;
         }
         .bg-image {
-            background-image: url('static/Bavkgroundinterstate.png'); /* Corrected path */
+            background-image: url("Bavkgroundinterstate.jpeg");
             filter: blur(8px);
             -webkit-filter: blur(8px);
             height: 100%; 
