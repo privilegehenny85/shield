@@ -1,5 +1,5 @@
 .bg-image {
-    background-image: url('Bavkgroundinterstate.jpeg');
+    background-image: url(Bavkgroundinterstate.png);
     filter: blur(8px);
     -webkit-filter: blur(8px);
     height: 100%; 
