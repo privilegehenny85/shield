@@ -1,0 +1,12 @@
+.bg-image {
+    background-image: url('Bavkgroundinterstate.jpeg');
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+}
